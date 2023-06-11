@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vcluster-init-crds:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-06-11T21:22:56.079608+02:00"
+    description: A Helm chart to install CRDs during VCLuster initialization
+    digest: b22d5a28cfe02e192a8f2e52259906697c8796b574c02797065b40f72e07188b
+    name: vcluster-init-crds
+    type: application
+    urls:
+    - https://svmt.github.io/vcluster-init-crds/vcluster-init-crds-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-11T21:22:56.076114+02:00"
