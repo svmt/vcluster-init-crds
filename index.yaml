@@ -3,9 +3,9 @@ entries:
   argocd-crds:
   - apiVersion: v2
     appVersion: 2.7.4
-    created: "2023-06-11T23:49:04.025723+02:00"
+    created: "2023-06-11T23:55:39.199765+02:00"
     description: A Helm chart for Kubernetes
-    digest: 84debdaeab39b94bf74ce2c8ae8fb7cb00df36a15e210d36896699ae40d670fd
+    digest: 26e126e2fb4ef492fe9c6afe3f713425b012fcb74b7ca4b42792c4e1e50bb746
     name: argocd-crds
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   vcluster-init-crds:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-06-11T23:49:04.027332+02:00"
+    created: "2023-06-11T23:55:39.201981+02:00"
     description: A Helm chart to install CRDs during VCLuster initialization
     digest: b22d5a28cfe02e192a8f2e52259906697c8796b574c02797065b40f72e07188b
     name: vcluster-init-crds
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://svmt.github.io/vcluster-init-crds/vcluster-init-crds-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-11T23:49:04.023623+02:00"
+generated: "2023-06-11T23:55:39.197552+02:00"
